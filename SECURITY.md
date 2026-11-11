@@ -1,0 +1,3 @@
+# Security Policy
+
+Please report vulnerabilities by creating a GitHub Security Advisory in the repository.
